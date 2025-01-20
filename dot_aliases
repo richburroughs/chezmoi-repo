@@ -1,3 +1,4 @@
 alias cz=chezmoi
 alias h=history
 alias k=kubectl
+alias tf=terraform
