@@ -113,6 +113,8 @@ PATH=/opt/homebrew/bin:$PATH
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias cz='chezmoi'
+alias cz=chezmoi
+alias h=history
+alias k=kubectl
 
 eval "$(flox activate -d ~ -m run)"
