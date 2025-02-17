@@ -3,3 +3,4 @@ alias h=history
 alias k=kubectl
 alias tf=terraform
 alias jn='jupyter notebook'
+alias python='python3'
