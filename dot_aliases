@@ -4,3 +4,4 @@ alias k=kubectl
 alias tf=terraform
 alias jn='jupyter notebook'
 alias python='python3'
+alias run_etcd="ETCD_UNSUPPORTED_ARCH='arm64' /Users/rich/.flox/run/aarch64-darwin.default.run/bin/etcd"
