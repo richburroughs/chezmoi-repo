@@ -1,6 +1,5 @@
 tap "homebrew/bundle"
 brew "chezmoi"
-brew "cyctl"
 brew "exercism"
 brew "helm"
 brew "minikube"
